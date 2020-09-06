@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Linguistics
-role: Associate Professor of Indo-European Studies
+role: Associate Professor of Linguistics\Associate Professor of Indo-European Studies
 
 # Organizations/Affiliations
 organizations:
