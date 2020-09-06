@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Linguistics, Associate Professor of Indo-European Studies
+role: Associate Professor of Linguistics
+role: Associate Professor of Indo-European Studies
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Classics
     institution: University of California, Berkeley
     year: 2010
   - course: M.A. in Latin
