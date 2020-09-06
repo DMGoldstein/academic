@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: David Goldstein
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Linguistics, Associate Professor of Indo-European Studies
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of California, Los Angeles
+  url: "https://linguistics.ucla.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Historical linguistics
+- Phylogenetics
+- Statistical methods
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: University of California, Berkeley
+    year: 2010
+  - course: M.A. in Latin
+    institution: University of California, Berkeley
+    year: 2004
+  - course: M.Phil. in Classics
+    institution: University of Oxford, Corpus Christi College
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
