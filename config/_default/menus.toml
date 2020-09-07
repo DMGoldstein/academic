@@ -39,12 +39,12 @@
   url = "#contact"
   weight = 50
 
-[[CV]]
+[[CV/]]
   name = "Appointments"
   url = "#appointments"
   weight = 10
 
-[[CV]]
+[[CV/]]
   name = "Education"
   url = "#education"
   weight = 20
