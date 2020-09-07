@@ -29,11 +29,11 @@ layout: resume
 
 - - - -
 
+<a name="appointments"></a>
+## Appointments
 
-## Appointments<a name="appointments"></a>
 
-
-**2019—**<br/>
+**2019—present**<br/>
 
 - Associate Professor, Department of Linguistics, University of California, Los Angeles.<br/>
 - Associate Professor, Program in Indo-European Studies, University of California, Los Angeles<br/>
