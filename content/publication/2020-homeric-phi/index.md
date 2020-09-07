@@ -3,8 +3,7 @@ title: "Homeric -phi(n) is an oblique case marker"
 
 date: "2020-07-01"
 
-authors: 
-- admin
+authors: ["David Goldstein"]
 
 publication_types: ["2"]
 
