@@ -26,6 +26,17 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
+  
+  """
+
+[[experience]]
+  title = "Associate Professor"
+  company = "Program in Indo-European Studies, University of California, Los Angeles"
+  company_url = "https://pies.ucla.edu"
+  location = "Los Angeles"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """
 
   """
 
