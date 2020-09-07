@@ -33,21 +33,14 @@
   name = "CV"
   url = "CV/"
   weight = 40
+ identifier = "CV"
+ parent = "Appointments"
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 50
 
-[[CV/]]
-  name = "Appointments"
-  url = "#appointments"
-  weight = 10
-
-[[CV/]]
-  name = "Education"
-  url = "#education"
-  weight = 20
 
 
 # Link to a PDF of your resume/CV from the menu.
