@@ -12,7 +12,11 @@ abstract: "Many archaic Indo‐European languages exhibit a system of dual conju
 
 
 tags:
-- Indo-European, Conjunction, Diachronic Syntax, Generative Syntax, Linguistic Theory
+- Indo-European
+- Conjunction
+- Diachronic Syntax
+- Generative Syntax 
+- Linguistic Theory
 
 
 
