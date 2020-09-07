@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Classics
+  - course: Ph.D., Classics
     institution: University of California, Berkeley
     year: 2010
-  - course: M.A. in Latin
+  - course: M.A., Latin
     institution: University of California, Berkeley
     year: 2004
-  - course: M.Phil. in Classics
+  - course: M.Phil., Classics
     institution: University of Oxford, Corpus Christi College
     year: 2002
+  - course: B.A., Classics
+    institution: Amherst College
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
