@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company = "Thesaurus linguae Latinae"
   company_url = "https://thesaurus.badw.de/en/project.html"
   location = "Munich"
-  date_start = "2011-03-01"
+  date_start = "2010-07-15"
   date_end = "2012-07-30"
   description = """
 
