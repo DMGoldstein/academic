@@ -29,27 +29,7 @@ date_format = "Jan 2006"
   
   """
 
-[[experience]]
-  title = "M.A., Latin"
-  company = "Department of Classics, University of California, Berkeley"
-  company_url = "https://classics.berkeley.edu"
-  location = "Berkeley"
-  date_start = "2003-08-26"
-  date_end = "2004-05-15"
-  description = ""
- 
-  """
-  
- [[experience]]
-  title = "Fulbright Scholar"
-  company = "Peking University"
-  company_url = "http://english.pku.edu.cn"
-  location = "Beijing"
-  date_start = "2003-01-01"
-  date_end = "2003-08-01"
-  description = ""
-  
-  """ 
+
   
 
 +++
