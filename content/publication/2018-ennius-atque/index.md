@@ -1,5 +1,5 @@
 ---
-title: "Ennius Annales 550 Sk (= 537 V<sup>2</sup>) and the history of Lat. \\textit{atque}"
+title: "Ennius Annales 550 Sk (= 537 V<sup>2</sup>) and the history of Lat. *atque*"
 authors: ["David Goldstein"]
 date: "2018-11-01"
 publication_types: ["6"]
