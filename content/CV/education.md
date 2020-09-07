@@ -55,6 +55,7 @@ date_format = "Jan 2006"
   date_start = "2000-10-01"
   date_end = "2002-07-01"
   description = """"""
+  """
   
 [[experience]]
   title = "B.A., Classics"
@@ -63,6 +64,7 @@ date_format = "Jan 2006"
   location = "Amherst"
   date_start = "1998-01-01"
   date_end = "2000-05-15"
-  description = """"""  
+  description = """"""
+  """
 
 +++
