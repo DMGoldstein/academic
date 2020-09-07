@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Courses 2020-2021"
-subtitle = ""
+title = "Teaching"
+subtitle = "Courses 2020-2021"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Quickly discover relevant content by [filtering courses]({{< ref "/teaching/_index.md" >}}).
 {{% /alert %}}
