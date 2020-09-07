@@ -1,8 +1,9 @@
 ---
 title: "Indo-European phylogenetics with R: A tutorial introduction"
+
 date: "2020-09-01"
-authors:
-- admin
+
+authors: ["David Goldstein"]
 
 publication_types: ["2"]
 publication: "*Indo-European Linguistics*"
