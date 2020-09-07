@@ -39,6 +39,40 @@ date_format = "Jan 2006"
   description = """
 
   """
+  
+[[experience]]
+  title = "Assistant Professor"
+  company = "Linguistics Department, University of California, Los Angeles"
+  company_url = "https://linguistics.ucla.edu"
+  location = "Los Angeles"
+  date_start = "2015-07-01"
+  date_end = "2019-06-30"
+  description = """
+  
+  """
+  
+[[experience]]
+  title = "Assistant Professor"
+  company = "Program in Indo-European Studies, University of California, Los Angeles"
+  company_url = "https://pies.ucla.edu"
+  location = "Los Angeles"
+  date_start = "2015-07-01"
+  date_end = "2019-06-30"
+  description = """
+  
+  """
+
+[[experience]]
+  title = "Universitätsassistent"
+  company = "Institut für Sprachwissenschaft, Universität Wien"
+  company_url = "https://linguistik.univie.ac.at"
+  location = "Vienna"
+  date_start = "2012-10-01"
+  date_end = "2015-09-30"
+  description = """
+  
+  """
+
 
 [[experience]]
   title = "Kooperationspartner (Adjunct)"
