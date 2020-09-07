@@ -67,6 +67,6 @@ subtitle = "Courses 2020-2021"
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering courses]({{< ref "/teaching/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#Quickly discover relevant content by [filtering courses]({{< ref "/teaching/_index.md" >}}).
+#{{% /alert %}}
