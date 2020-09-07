@@ -7,9 +7,11 @@ date: "2013-07-01"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors: ["First author's name", "Second author's name"]
 
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
 publication: "In *International Conference on Academic*."
+
+abstract: "Yo!"
 
 ---
