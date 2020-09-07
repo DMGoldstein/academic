@@ -20,8 +20,8 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"
-  #originally url was "#featured"
+  url = "#featured"
+  #url = "#publications" to get rid of featured 
   weight = 40
   
 [[main]]
