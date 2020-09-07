@@ -4,6 +4,7 @@ date: "2019-07-01"
 authors: ["David Goldstein"]
 publication_types: ["2"]
 publication: "*Transactions of the Philological Society*"
+doi: "10.1111/1467-968X.12139"
 selected: true
 
 ---
