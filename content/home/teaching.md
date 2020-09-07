@@ -65,8 +65,12 @@ subtitle = "Courses 2020-2021"
  
  # CSS class.
  css_class = ""
+ 
+ # To put this alert back in, place it below after the header
+ # {{% alert note %}}
+ # Quickly discover relevant content by [filtering courses]({{< ref "/teaching/_index.md" >}}).
+ # {{% /alert %}}
+ 
 +++
 
-#{{% alert note %}}
-#Quickly discover relevant content by [filtering courses]({{< ref "/teaching/_index.md" >}}).
-#{{% /alert %}}
+
