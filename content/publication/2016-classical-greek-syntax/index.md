@@ -12,9 +12,11 @@ tags:
 - Syntax
 - Wackernagel's Law
 - Second Position
-- Clitic
+- Clitics
 - Prosody
 - Information Structure
+- Syntax-phonology interface
+- Phonology
 
 selected: false
 featured: true
