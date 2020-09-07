@@ -17,9 +17,10 @@ abstract: "The synchronic distribution and diachronic trajectory of Homeric -_ph
 doi: "10.1111/1467-968X.12192"
 
 tags:
-- ancient Greek
-- morphosyntax
-- case
+- Ancient Greek
+- Homer
+- Morphosyntax
+- Case
 - Paradigm Function Morphology
 
 
