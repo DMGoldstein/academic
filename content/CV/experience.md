@@ -96,5 +96,17 @@ date_format = "Jan 2006"
 
   """
 
+[[experience]]
+  title = "Graduate Student Papyrologist"
+  company = "Department of Classics, University of California, Berkeley"
+  company_url = "https://www.lib.berkeley.edu/libraries/bancroft-library/tebtunis-papyri"
+  location = "Munich"
+  date_start = "2003-09-01"
+  date_end = "2006-05-31"
+  description = """
+
+  """
+
+
 
 +++
