@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Los Angeles"
   date_start = "2019-07-01"
   date_end = ""
-  description = """
+#  description = """
 
 [[experience]]
   title = "Kooperationspartner (Adjunct)"
@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   company_url = "https://www.indogermanistik.uni-muenchen.de/index.html"
   location = "Munich"
   date_start = "2011-03-01"
-  date_end = "2011-07-30"
-  description = """
+#  date_end = "2011-07-30"
+#  description = """
 
 
 [[experience]]
