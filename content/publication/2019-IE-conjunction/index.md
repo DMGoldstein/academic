@@ -18,8 +18,8 @@ tags:
 - Linguistic Theory
 
 
-#selected: true
-featured: true
+selected: true
+featured: false
 
 
 
