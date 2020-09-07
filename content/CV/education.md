@@ -25,10 +25,20 @@ date_format = "Jan 2006"
   location = "Berkeley"
   date_start = "2004-08-26"
   date_end = "2010-05-15"
-  description = " "
+  description = """
+  
   """
 
-
+[[experience]]
+  title = "M.A., Latin"
+  company = "Department of Classics, University of California, Berkeley"
+  company_url = "https://classics.berkeley.edu"
+  location = "Berkeley"
+  date_start = "2003-08-26"
+  date_end = "2004-05-15"
+  description = """
+ 
+  """
   
 
 +++
