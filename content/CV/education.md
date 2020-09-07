@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Ph.D. Classics"
+  title = "Ph.D., Classics"
   company = "Department of Classics, University of California, Berkeley"
   company_url = "https://classics.berkeley.edu"
   location = "Berkeley"
   date_start = "2004-05-31"
   date_end = "2010-05-15"
-  description = """
+  description = ""
   """
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Berkeley"
   date_start = "2003-08-26"
   date_end = "2004-05-15"
-  description = """"""
+  description = ""
   """
   
  [[experience]]
@@ -42,9 +42,9 @@ date_format = "Jan 2006"
   company = "Peking University"
   company_url = "http://english.pku.edu.cn"
   location = "Beijing"
-  date_start = "2002-01-01"
-  date_end = "2002-08-01"
-  description = """"""
+  date_start = "2003-01-01"
+  date_end = "2003-08-01"
+  description = ""
   """ 
   
 [[experience]]
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   location = "Oxford"
   date_start = "2000-10-01"
   date_end = "2002-07-01"
-  description = """"""
+  description = ""
   """
   
 [[experience]]
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   location = "Amherst"
   date_start = "1998-01-01"
   date_end = "2000-05-15"
-  description = """"""
+  description = ""
   """
 
 +++
