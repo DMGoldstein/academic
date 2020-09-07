@@ -65,8 +65,12 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ # If you want to add this filter alert back in, you have to place below after the header
+ # {{% alert note %}}
+ # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+ # {{% /alert %}} 
+ 
 +++
 
-#{{% alert note %}}
-#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-#{{% /alert %}}
+
