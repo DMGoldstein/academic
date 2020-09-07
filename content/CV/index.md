@@ -16,13 +16,15 @@ header:
   caption: ""
   image: ""
   
-#layout: resume  
+layout: resume  
 
 ---
 
 - - - -
 
+
 ## Appointments
+
 
 **2019—**<br/>
 
