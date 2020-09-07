@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_start = "2004-08-26"
   date_end = "2010-05-15"
   description = ""
+  
   """
 
 [[experience]]
@@ -36,6 +37,7 @@ date_format = "Jan 2006"
   date_start = "2003-08-26"
   date_end = "2004-05-15"
   description = ""
+ 
   """
   
  [[experience]]
@@ -46,6 +48,7 @@ date_format = "Jan 2006"
   date_start = "2003-01-01"
   date_end = "2003-08-01"
   description = ""
+  
   """ 
   
 [[experience]]
@@ -56,6 +59,7 @@ date_format = "Jan 2006"
   date_start = "2000-10-01"
   date_end = "2002-07-01"
   description = ""
+  
   """
   
 [[experience]]
@@ -66,6 +70,7 @@ date_format = "Jan 2006"
   date_start = "1998-01-01"
   date_end = "2000-05-15"
   description = ""
+  
   """
 
 +++
