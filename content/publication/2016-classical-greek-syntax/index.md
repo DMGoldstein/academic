@@ -17,6 +17,6 @@ tags:
 - Information Structure
 
 selected: false
-featured: false
+featured: true
 
 ---
