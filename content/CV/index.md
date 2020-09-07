@@ -78,6 +78,7 @@ layout: resume
 
 <a name="awards"></a>
 
+
 ## Awards
 
 **2010—2012** 
@@ -134,6 +135,7 @@ layout: resume
 - - - -
 
 <a name="workshops"></a>
+
 
 ## Workshops organized
 
