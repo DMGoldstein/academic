@@ -169,6 +169,13 @@
 - id: pub_patent
   translation: Patent
 
+- id: pub_review
+  translation: Book Review
+  
+- id: pub_chapter
+  translation: Book Chapter  
+  
+
 # Project details
 
 - id: open_project_site
