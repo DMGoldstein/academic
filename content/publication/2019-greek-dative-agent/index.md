@@ -1,8 +1,7 @@
 ---
 title: "The synchrony and diachrony of the Greek dative of agent"
 
-authors:
-- admin
+authors: ["David Goldstein"]
 
 date: "2019-10-01"
 
