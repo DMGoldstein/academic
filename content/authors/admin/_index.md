@@ -18,7 +18,7 @@ organizations:
   url: "https://linguistics.ucla.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research lies at the intersection of Indo-European linguistics and linguistic theory, with a focus on syntax, morphosyntax, and semantics. 
 
 interests:
 - Historical linguistics
