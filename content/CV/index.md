@@ -20,10 +20,17 @@ layout: resume
 
 ---
 
+
+[Appointments](#appointments)<br/>
+[Education](#education)<br/>
+[Awards](#awards)<br/>
+[Workshops organized](#workshops)<br/>
+
+
 - - - -
 
 
-## Appointments
+## Appointments<a name="appointments"></a>
 
 
 **2019—**<br/>
@@ -54,7 +61,7 @@ layout: resume
 
 - - - -
 
-## Education
+## Education<a name="education"></a>
 
 **2010**    University of California, Berkeley, Ph.D., Classics<br/>
 
@@ -66,7 +73,7 @@ layout: resume
 
 - - - -
 
-## Awards
+## Awards<a name="awards"></a>
 
 **2010—2012** 
 
@@ -119,7 +126,7 @@ layout: resume
 
 - Alice Tweed Scholarship (study in Oxford)
 
-## Workshops organized
+## Workshops organized<a name="workshops"></a>
 
 **2017**
 
