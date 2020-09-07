@@ -14,8 +14,11 @@ abstract: "The last twenty or so years have witnessed a dramatic increase in the
 
 tags:
 - R
-- phylogenetics
+- Phylogenetics
 - Indo-European
+- Maximum Parsimony
+- Maximum Likelihood
+- Distance-Based Methods
 
 selected: true
 
