@@ -30,6 +30,7 @@ layout: resume
 - - - -
 
 <a name="appointments"></a>
+
 ## Appointments
 
 
@@ -61,7 +62,9 @@ layout: resume
 
 - - - -
 
-## Education<a name="education"></a>
+<a name="education"></a>
+
+## Education
 
 **2010**    University of California, Berkeley, Ph.D., Classics<br/>
 
@@ -73,7 +76,9 @@ layout: resume
 
 - - - -
 
-## Awards<a name="awards"></a>
+<a name="awards"></a>
+
+## Awards
 
 **2010—2012** 
 
@@ -126,7 +131,9 @@ layout: resume
 
 - Alice Tweed Scholarship (study in Oxford)
 
-## Workshops organized<a name="workshops"></a>
+<a name="workshops"></a>
+
+## Workshops organized
 
 **2017**
 
