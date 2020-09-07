@@ -131,6 +131,8 @@ layout: resume
 
 - Alice Tweed Scholarship (study in Oxford)
 
+- - - -
+
 <a name="workshops"></a>
 
 ## Workshops organized
