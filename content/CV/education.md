@@ -51,26 +51,5 @@ date_format = "Jan 2006"
   
   """ 
   
-[[experience]]
-  title = "M.Phil., Classics"
-  company = "University of Oxford, Corpus Christi College"
-  company_url = "https://www.ccc.ox.ac.uk"
-  location = "Oxford"
-  date_start = "2000-10-01"
-  date_end = "2002-07-01"
-  description = ""
-  
-  """
-  
-[[experience]]
-  title = "B.A., Classics"
-  company = "Department of Classics, Amherst College"
-  company_url = "https://www.amherst.edu/academiclife/departments/classics"
-  location = "Amherst"
-  date_start = "1998-01-01"
-  date_end = "2000-05-15"
-  description = ""
-  
-  """
 
 +++
