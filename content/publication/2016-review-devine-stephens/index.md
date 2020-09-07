@@ -10,8 +10,8 @@ publication_types: ["2"]
 publication: "_Kratylos_"
 tags:
 - Latin
-- Formal Semantics
-- Book Review
+- Semantics
+
 
 selected: false
 featured: false
