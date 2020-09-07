@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   location = "Berkeley"
   date_start = "2004-08-26"
   date_end = "2010-05-15"
-  description = ""
-  
+  description = " "
   """
 
 
