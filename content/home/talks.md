@@ -68,3 +68,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+November 9, 2020 I'll be presenting at UC Berkeley 
+
