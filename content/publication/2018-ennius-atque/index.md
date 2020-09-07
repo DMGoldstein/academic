@@ -3,7 +3,7 @@ title: "Ennius Annales 550 Sk (= 537 V<sup>2</sup>) and the history of Lat. *atq
 authors: ["David Goldstein"]
 date: "2018-11-01"
 publication_types: ["6"]
-publication: "Vina diem celebrent: Studies in linguistics and philology in honor of Brent Vine"
+publication: "_Vina diem celebrent: Studies in linguistics and philology in honor of Brent Vine_"
 doi: ""
 abstract: ""
  
