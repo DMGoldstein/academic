@@ -33,8 +33,8 @@
   name = "CV"
   url = "CV/"
   weight = 40
- identifier = "CV"
- parent = "Appointments"
+ identifier = "Appointments"
+ parent = "CV"
 
 [[main]]
   name = "Contact"
