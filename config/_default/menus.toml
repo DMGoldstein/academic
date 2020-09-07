@@ -41,12 +41,12 @@
 
 [[CV]]
   name = "Appointments"
-  #url = "#contact"
+  url = "#appointments"
   weight = 10
 
 [[CV]]
   name = "Education"
-  #url = "#contact"
+  url = "#education"
   weight = 20
 
 
