@@ -21,4 +21,4 @@ tags:
 ---
 
 
-{{.Title | markdownify}}
+Tags: {{.Title | markdownify}}
