@@ -6,7 +6,7 @@ date: "2020-09-01"
 authors: ["David Goldstein"]
 
 publication_types: ["2"]
-publication: "*Indo-European Linguistics 8:1-71*"
+publication: "_Indo-European Linguistics_ 8:1-71"
 
 doi: "10.1163/22125892-20201000"
 
