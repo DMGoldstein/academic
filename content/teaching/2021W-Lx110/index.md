@@ -15,4 +15,5 @@ Lecture, four hours; discussion, one hour. Requisites: courses 20, 103, 120A. Me
 
 
 
-*Time*: MW 4-6:30.
+**Time**: MW 4-6:30.
+**Location**: TBA.
