@@ -21,9 +21,10 @@ organizations:
 bio: My research lies at the intersection of Indo-European linguistics and linguistic theory, with a focus on syntax, morphosyntax, and semantics. 
 
 interests:
-- Historical linguistics
+- Syntactic, morphosyntactic, and semantic change
+- Indo-European
 - Phylogenetics
-- Statistical methods
+- Quantitative methods
 
 education:
   courses:
@@ -77,5 +78,5 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor of Linguistics and Indo-European Studies. 
+I am an associate professor of Linguistics and Indo-European Studies. My research lies at the intersection of language change and linguistic theory, with a focus on syntactic, morphosyntactic, and semantic change among the Indo-European languages. 
 
