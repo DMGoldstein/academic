@@ -11,7 +11,7 @@ abstract: "Enclitic distribution in Greek (and archaic Indo-European generally) 
 
 publication_types: ["2"]
 
-publication: "_Indo-European Linguistics_ 4"
+publication: "_Indo-European Linguistics_ 4:53-97"
 
 tags:
 - Ancient Greek
