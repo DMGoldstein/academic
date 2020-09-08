@@ -6,7 +6,7 @@ authors: ["David Goldstein"]
 date: "2016-01-01"
 doi: "10.29091/KRATYLOS/2016/1/11"
 
-publication_types: ["8"]
+publication_types: ["9"]
 publication: "_Kratylos_ 61:155–163"
 tags:
 - Latin
