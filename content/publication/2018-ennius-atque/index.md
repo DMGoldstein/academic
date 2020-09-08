@@ -1,5 +1,5 @@
 ---
-title: Ennius Annales 550 Sk and the history of Lat. 𝑎𝑡𝑞𝑢𝑒
+title: Ennius Annales 550 Sk and the history of Lat. _atque_ 𝑎𝑡𝑞𝑢𝑒
 #Ennius Annales 550 Sk (= 537 V<sup>2</sup>) and the history of Lat. _atque_
 authors: ["David Goldstein"]
 date: "2018-11-01"
