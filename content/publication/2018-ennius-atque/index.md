@@ -1,5 +1,5 @@
 ---
-title: Ennius Annales 550 Sk (= 537 V<sup>2</sup>) and the history of Lat. _atque_
+title: Ennius Annales 550 Sk (= 537 V^2) and the history of Lat. _atque_
 authors: ["David Goldstein"]
 date: "2018-11-01"
 publication_types: ["6"]
@@ -17,3 +17,5 @@ tags:
 - Ennius
 
 ---
+
+Ennius Annales 550 Sk (= 537 V<sup>2</sup>) and the history of Lat. _atque_
