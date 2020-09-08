@@ -7,7 +7,7 @@ date: "2016-01-01"
 doi: "10.29091/KRATYLOS/2016/1/11"
 
 publication_types: ["2"]
-publication: "_Kratylos_ 61:155–163."
+publication: "_Kratylos_ 61:155–163"
 tags:
 - Latin
 - Semantics
