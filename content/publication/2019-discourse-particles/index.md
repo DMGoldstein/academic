@@ -6,7 +6,7 @@ date: "2019-10-01"
 authors: ["David Goldstein"]
 
 publication_types: ["6"]
-publication: "Michael Clarke, Joshua T. Katz, and Chris Stray, edd. _Liddell and Scott: The history, methodology, and languages of the world's leading lexicon of ancient Greek_, 268-287. Oxford: Oxford University Press"
+publication: "Michael Clarke, Joshua T. Katz, and Chris Stray, ed. _Liddell and Scott: The history, methodology, and languages of the world's leading lexicon of ancient Greek_, 268-287. Oxford: Oxford University Press"
 
 
 doi: "10.1093/oso/9780198810803.003.0015"
