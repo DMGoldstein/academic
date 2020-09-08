@@ -4,7 +4,7 @@ title: Ennius Annales 550 Sk and the history of Lat. *atque* _atque_ 𝑎𝑡�
 authors: ["David Goldstein"]
 date: "2018-11-01"
 publication_types: ["6"]
-publication: "Dieter C. Gunkel, Stephanie W. Jamison, Angelo O. Mercado, and Kazuhiko Yoshida, edd. _Vina diem celebrent: Studies in linguistics and philology in honor of Brent Vine_, 61-75. Ann Arbor: Beech Stave Press"
+publication: "Dieter C. Gunkel, Stephanie W. Jamison, Angelo O. Mercado, and Kazuhiko Yoshida, ed. _Vina diem celebrent: Studies in linguistics and philology in honor of Brent Vine_, 61-75. Ann Arbor: Beech Stave Press"
 doi: ""
 abstract: ""
 
