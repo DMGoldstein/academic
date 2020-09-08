@@ -15,4 +15,6 @@ tags:
 selected: false
 featured: false
 
+url_pdf: https://brill.com/view/journals/ieul/1/1/article-p68_3.xml?lang=en
+
 ---
