@@ -1,5 +1,5 @@
 ---
-title: "Homeric -phi(n) is an oblique case marker"
+title: "Homeric -𝑝ℎ𝑖(𝑛) is an oblique case marker"
 
 date: "2020-07-01"
 
