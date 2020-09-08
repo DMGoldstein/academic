@@ -3,7 +3,7 @@ title: "Language change and linguistic theory: The case of archaic Indo-European
 date: "2019-03-01"
 authors: ["David Goldstein"]
 publication_types: ["2"]
-publication: "*Transactions of the Philological Society*"
+publication: "_Transactions of the Philological Society_ 117:1--34"
 doi: "10.1111/1467-968X.12139"
 
 
