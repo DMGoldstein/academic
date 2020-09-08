@@ -78,5 +78,5 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor of Linguistics and Indo-European Studies. My research lies at the intersection of language change and linguistic theory, with a focus on syntactic, morphosyntactic, and semantic change among the Indo-European languages. 
+My research lies at the intersection of language change and linguistic theory, with a focus on syntactic, morphosyntactic, and semantic change among the Indo-European languages. 
 
