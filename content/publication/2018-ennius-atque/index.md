@@ -7,6 +7,7 @@ publication_types: ["6"]
 publication: "_Vina diem celebrent: Studies in linguistics and philology in honor of Brent Vine_"
 doi: ""
 abstract: ""
+layout: page
  
 selected: false
 featured: false
