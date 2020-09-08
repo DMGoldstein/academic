@@ -17,6 +17,9 @@ tags:
 - Conjunction
 - Ennius
 
+
+{{.Title | markdownify}}
+
 ---
 
-{{.Description | markdownify}}
+
