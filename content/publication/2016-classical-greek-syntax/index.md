@@ -1,5 +1,5 @@
 ---
-title: "Classical Greek syntax: Wackernagel's law in Herodotus"
+title: "Classical Greek syntax: Wackernagel's law in Herodotus. Leiden: Brill"
 authors: ["David Goldstein"]
 date: "2016-01-01"
 doi: "10.1163/9789004250680"
