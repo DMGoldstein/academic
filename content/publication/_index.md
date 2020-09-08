@@ -8,8 +8,8 @@ title: Publications
 #   4 = Citation
 view: 4
 
-#If you highlight out view, then you can use layout
-#layout: page
+# If you highlight out view, then you can use layout
+# layout: page
 
 # Optional header image (relative to `static/media/` folder).
 header:
