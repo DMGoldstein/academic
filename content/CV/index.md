@@ -50,9 +50,7 @@ layout: resume
 
 - - - -
 
-<a name="education"></a>
-
-## Education
+<a name="education"></a>## Education
 
 **2010**    University of California, Berkeley, Ph.D., Classics<br/>
 
@@ -145,7 +143,7 @@ layout: resume
 - A New Look at Greek Prosody, co-organized with Dieter Gunkel, 142nd Annual Meeting of the American Philological Association, San Antonio, 9 January.
 
 
-
+- - - -
 
 <!-- ### Footer Last updated: May 2013 -->
 
