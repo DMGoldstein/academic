@@ -21,6 +21,7 @@ tags:
 - Syntax
 - Semantics 
 - Grammaticalization
+- Indo-European
 
 
 ---
