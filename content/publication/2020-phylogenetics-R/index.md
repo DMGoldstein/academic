@@ -21,6 +21,9 @@ tags:
 - Maximum Parsimony
 - Maximum Likelihood
 - Distance-Based Methods
+- Homoplasy
+- Bootstrapping
+
 
 selected: true
 
@@ -29,6 +32,6 @@ url_dataset: https://doi.org/10.5281/zenodo.3352406
 
 links:
  - name: "Publisher"
-   url: ""
+   url: "https://brill.com/view/journals/ieul/aop/article-10.1163-22125892-20201000/article-10.1163-22125892-20201000.xml"
 
 ---
