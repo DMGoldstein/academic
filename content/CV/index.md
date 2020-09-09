@@ -87,7 +87,7 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 **2007**
 
-- 2007  Outstanding Graduate Student Instructor Award
+- Outstanding Graduate Student Instructor Award
 
 **2006**
 
@@ -119,11 +119,12 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 - Alice Tweed Scholarship (study in Oxford)
 
-- - - -
+
 
 
 <a name="workshops"></a>
 
+- - - -
 
 ## Workshops organized
 
