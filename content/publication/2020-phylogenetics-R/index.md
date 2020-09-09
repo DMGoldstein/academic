@@ -21,8 +21,7 @@ tags:
 - Maximum Parsimony
 - Maximum Likelihood
 - Distance-Based Methods
-- Homoplasy
-- Bootstrapping
+- Quantitative Methods
 
 
 selected: true
