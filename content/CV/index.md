@@ -68,40 +68,37 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 ## Awards
 
-**2010—2012** 
+**2010—2012**<br/> 
 
 - APA/NEH TLL Post-Doctoral Fellowship
 
-**2009** 
+**2009**<br/> 
 
 - Chancellor’s Dissertation-Completion Fellowship 
-
-**2009** 
-
 - ACLS/Mellon Dissertation-Completion Fellowship (alternate)
 
-**2008** 
+**2008**<br/> 
 
 - Dean’s Normative Time Fellowship
 - Brittan Fellowship (epigraphical research in Greece)
 
-**2007**
+**2007**<br/>
 
 - Outstanding Graduate Student Instructor Award
 
-**2006**
+**2006**<br/>
 
 - Venice International University Seminar Award
 
-**2003**
+**2003**<br/>
 
 - The Berkeley Fellowship (five years graduate study support)
 
-**2002**
+**2002**<br/>
 
 - Fulbright Scholarship (Peking University, China)
 
-**2000** 
+**2000**<br/> 
 
 - Overseas Research Student Award (graduate study in England)<br/>
 - Evan Carroll Commager Fellowship
@@ -110,12 +107,12 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 - Phi Beta Kappa<br/>
 - The Floyd L. Moreland Scholarship (CUNY Latin Institute)<br/>
 
-**1999**  
+**1999**<br/>  
 
 - Junior Crowell Prize (excellence in Latin)<br/>
 - Folger Shakespeare Library Fellowship<br/>
 
-**1997**  
+**1997**<br/>  
 
 - Alice Tweed Scholarship (study in Oxford)
 
