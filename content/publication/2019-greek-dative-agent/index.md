@@ -16,5 +16,6 @@ tags:
 - Herodotus
 - Diachronic Syntax
 - Differential Agent Marking
+- Quantitative Methods
 
 ---
