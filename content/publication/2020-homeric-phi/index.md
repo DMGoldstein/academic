@@ -22,6 +22,7 @@ tags:
 - Morphosyntax
 - Case
 - Paradigm Function Morphology
+- Quantitative Methods
 
 
 #selected: true
