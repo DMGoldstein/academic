@@ -16,6 +16,9 @@ tags:
 - Wackernagel's Law
 - Clitics
 
+links:
+- name: Publisher
+  url: "http://cslipublications.stanford.edu/HPSG/2016/headlex2016-goldstein-haug.pdf"
 
 selected: false
 featured: false
