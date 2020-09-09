@@ -1,6 +1,6 @@
 ---
-title: ""
-subtitle: "Indo-European phylogenetics with R: A tutorial introduction"
+title: "Indo-European phylogenetics with R"
+subtitle: "A tutorial introduction"
 
 date: "2020-09-01"
 
