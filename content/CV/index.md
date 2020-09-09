@@ -50,7 +50,8 @@ layout: resume
 
 - - - -
 
-<a name="education"></a>## Education
+<a name="education"></a>
+## Education
 
 **2010**    University of California, Berkeley, Ph.D., Classics<br/>
 
