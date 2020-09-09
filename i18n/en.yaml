@@ -170,11 +170,21 @@
 - id: pub_patent
   translation: Patent
 
+#"9"
 - id: pub_review
   translation: Book review
-  
+
+#"10"
 - id: pub_chapter
-  translation: Book Chapter  
+  translation: Book chapter  
+
+#"11"
+- id: pub_tll
+  translation: Thesaurus Linguae Latinae lemma
+
+##"12"
+- id: pub_eagll
+  translation: Encyclopedia entry
   
 
 # Project details
