@@ -1,5 +1,6 @@
 ---
-title: "Review of Devine and Stephens 2016"
+title: "Review" 
+subtitle: "Andrew M. Devine and Laurence D. Stephens, _Semantics_ _for_ _Latin_: _An_ _introduction_. Oxford: Oxford University Press."
 
 authors: ["David Goldstein"]
 
