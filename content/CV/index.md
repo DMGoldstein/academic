@@ -57,9 +57,9 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 **2004**    University of California, Berkeley, M.A., Latin<br/>
 
-**2002**    University of Oxford, M.Phil., Classics<br/>
+**2002**    University of Oxford, M.Phil. with Distinction, Classics<br/>
 
-**2000**    Amherst College, B.A., Classics and Interdisciplinary Studies<br/>
+**2000**    Amherst College, B.A. _summa_ _cum_ _laude_, Classics and Interdisciplinary Studies<br/>
 
 - - - -
 
@@ -125,19 +125,19 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 ## Workshops organized
 
-**2017**
+**2017**<br/>
 
 - Paradigm Leveling, co-organized with Canaan Breiss, 23nd International Conference on Historical Linguistics, San Antonio, 3 August.
 
-**2015**
+**2015**<br/>
 
 - Diachronic Morphophonology: Lexical Accent Systems, co-organized with Dieter Gunkel and Anthony Yates, 22nd International Conference on Historical Linguistics, Naples, 31 July.
 
-**2014**
+**2014**<br/>
 
 - Diachronic Syntax Workshop, 41st Österreichische Linguistiktagung, Vienna, 6--7 December.
 
-**2011**
+**2011**<br/>
 
 - A New Look at Greek Prosody, co-organized with Dieter Gunkel, 142nd Annual Meeting of the American Philological Association, San Antonio, 9 January.
 
