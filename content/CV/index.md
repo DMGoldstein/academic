@@ -17,6 +17,7 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 <a name="appointments"></a>
 
+
 ## Appointments
 
 
@@ -120,6 +121,7 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 - - - -
 
+
 <a name="workshops"></a>
 
 
@@ -143,8 +145,5 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 
 
-<!-- ### Footer 
-
-
-Last updated: May 2013 -->
+<!-- ### Footer Last updated: May 2013 -->
 
