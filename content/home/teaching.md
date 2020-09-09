@@ -12,7 +12,7 @@ subtitle = "Courses 2020-2021"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "teaching"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
