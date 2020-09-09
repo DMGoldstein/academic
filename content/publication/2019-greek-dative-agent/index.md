@@ -9,7 +9,7 @@ publication_types: ["10"]
 
 publication: "Adam Catt, Ronald I. Kim, Masato Kobayashi, and Brent H. Vine, ed. _Qazzu warrai: Anatolian and Indo-European studies in honor of Kazuhiko Yoshida_, 73-90. Ann Arbor: Beech Stave Press"
 
-categories: ["Greek", "syntax"]
+#categories: ["Greek", "syntax"]
 
 tags:
 - Ancient Greek
