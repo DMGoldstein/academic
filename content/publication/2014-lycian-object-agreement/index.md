@@ -11,6 +11,8 @@ tags:
 - Differential Object Marking
 - Anatolian
 - Syntax
+- Lycian
+
 
 links:
 - name: "Publisher"
