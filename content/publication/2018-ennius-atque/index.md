@@ -18,6 +18,9 @@ tags:
 - Diachronic Syntax
 - Conjunction
 - Ennius
+- Syntax
+- Semantics 
+- Grammaticalization
 
 
 ---
