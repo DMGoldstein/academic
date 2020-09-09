@@ -120,9 +120,11 @@ layout: resume
 
 
 
-<a name="workshops"></a>
+
 
 - - - -
+
+<a name="workshops"></a>
 
 ## Workshops organized
 
