@@ -1,8 +1,9 @@
 ---
 title: "Curriculum Vitae"  # Add a page title.
 #summary: "Hello!"  # Add a page description.
-date: "2019-01-01T00:00:00Z"  # Add today's date.
+#date: "2019-01-01T00:00:00Z"  # Add today's date.
 #type: "widget_page"  # Page type is a Widget Page
+layout: resume
 
 ---
 
@@ -114,12 +115,12 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 **1997**<br/>  
 
-- Alice Tweed Scholarship (study in Oxford)
+- Alice Tweed Scholarship (study in Oxford)<br/>
 
 
 
 
-
+<a name="workshops"></a>
 
 - - - -
 
@@ -141,7 +142,7 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 - A New Look at Greek Prosody, co-organized with Dieter Gunkel, 142nd Annual Meeting of the American Philological Association, San Antonio, 9 January.
 
-<a name="workshops"></a>
+
 
 
 <!-- ### Footer Last updated: May 2013 -->
