@@ -119,7 +119,7 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 
 
-<a name="workshops"></a>
+
 
 - - - -
 
@@ -141,6 +141,7 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 - A New Look at Greek Prosody, co-organized with Dieter Gunkel, 142nd Annual Meeting of the American Philological Association, San Antonio, 9 January.
 
+<a name="workshops"></a>
 
 
 <!-- ### Footer Last updated: May 2013 -->
